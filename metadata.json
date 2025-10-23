@@ -1,0 +1,8 @@
+{
+  "name": "AI'Han Yapay Zeka Oyunu",
+  "description": "A mobile-first web application featuring a collection of mini-games controlled by hand gestures, face tracking, body pose, and voice commands, powered by AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
